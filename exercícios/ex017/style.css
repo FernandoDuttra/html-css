@@ -1,0 +1,25 @@
+
+
+
+body{
+    font-family: 'Courier New';
+    font-style: italic;
+    font-weight: bolder;
+    /* Medidas absolutas
+    cm, mm, im, px, pt, pc
+
+
+    Medidas relativas
+    em, ex, rem, vw, vh, %
+    16px geralmente = 1em */
+}
+
+h1, h2 {
+    
+    font-family: serif;
+    text-decoration: underline;
+    /* shorhand font
+    - font-style -> font-weight -> font-size -> font-family
+    */
+
+}
